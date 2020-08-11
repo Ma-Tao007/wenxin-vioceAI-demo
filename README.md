@@ -55,8 +55,10 @@ npm run dev
 
 # 运行效果
 
+
 项目运行：
-
+  ![image](https://github.com/Ma-Tao007/wenxin-vioceAI-demo/blob/master/static/image/%E9%A1%B9%E7%9B%AE%E8%BF%90%E8%A1%8C.png)
 开始录音：
-
+![image](https://github.com/Ma-Tao007/wenxin-vioceAI-demo/blob/master/static/image/%E5%BC%80%E5%A7%8B%E5%BD%95%E9%9F%B3.png)
 结束录音：
+![image](https://github.com/Ma-Tao007/wenxin-vioceAI-demo/blob/master/static/image/%E5%BD%95%E9%9F%B3%E7%BB%93%E6%9E%9C.png)
